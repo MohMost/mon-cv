@@ -47,7 +47,9 @@ body {
   padding-bottom: 2em;
   border-bottom: 1px solid #ccc;
 }
-
+.yui-gc{
+  display:flex;	
+}
 /* //-- header, body, footer -- */
 #hd {
   margin: 2.5em 0 3em 0;
