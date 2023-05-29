@@ -43,6 +43,7 @@ body {
 	width: 950px
 }
 .yui-gf {
+	display:flex;
   margin-bottom: 2em;
   padding-bottom: 2em;
   border-bottom: 1px solid #ccc;
